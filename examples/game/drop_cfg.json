@@ -1,0 +1,15 @@
+{
+  "cfg_frame_rate" : 50,
+  "cfg_mv_right" : 39,
+  "cfg_mv_left" : 37,
+  "cfg_mv_up" : 38,
+  "cfg_mv_down" : 40,
+  "cfg_control" : 17,
+  "cfg_mv_speed" : 8,
+  "cfg_jumping_ratio" : 10,
+  "cfg_gravity" : 6,
+  "cfg_max_jump" : 150,
+  "cfg_translate_ratio" : 6,
+  "cfg_width_ratio" : 5,
+  "cfg_mv_control" : 3
+}
